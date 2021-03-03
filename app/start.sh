@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+### - Three command symbol is for windows commented
+
 echo $APP_NAME
 
 echo "======== $APP_NAME ====="
