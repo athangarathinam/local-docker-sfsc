@@ -1,0 +1,12 @@
+Flask>=1.1.1
+cffi==1.14.4
+cryptography==3.2.1
+enum34==1.1.10
+ipaddress==1.0.23
+kafka-helper
+kafka-python
+psycopg2==2.8.6
+psycopg2-binary==2.8.6
+pycparser==2.20
+six==1.15.0
+snowflake-connector-python==2.3.7

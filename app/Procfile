@@ -1,0 +1,2 @@
+worker: python kafka-producer.py
+worker: newrelic.ini
